@@ -61,7 +61,7 @@ In DDR method, the right-hand side of dynamical system is written by dictionay r
 
 This shows how to customize the dictionary in the main code. 
 
-In the code [Main](https://github.com/rkyoon12/NAED/blob/master/Main/poly21.py), you can change the dictionay elements and its gradient. 
+In the code [Main](https://github.com/rkyoon12/DDR/blob/main/Main.py), you can change the dictionay elements and its gradient. 
 
   ```sh
   # N  : a number of data example
