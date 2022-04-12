@@ -103,12 +103,7 @@ In this model, we have two parameters, beta and Q. We recommend to initialize be
 
 Then it is trained using the gradient-based method "ADAM" with the constant learning rate. Depending on your problem, change learning rate and optimizer. 
 
- ```
-lr = 0.01
-bce = tf.keras.losses.BinaryCrossentropy()
-opt = tf.keras.optimizers.Adam(learning_rate=lr)
 
-  ```
 
 
 <!-- Results -->
