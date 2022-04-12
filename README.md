@@ -109,7 +109,7 @@ Then it is trained using the gradient-based method "ADAM" with the constant lear
 <!-- Results -->
 ## Results  
 
-We depict the learned lower-dimensional representation of data. 
+We depict the learned lower-dimensional representation of data. (left/top) DDR, (right/top) PCA, (left/bottom) t-SNE, and (right/bottom) Umap.
 ![Digits](https://github.com/rkyoon12/DDR/blob/main/MNIST4.png)
 
 This is comparision of lower-dimensional representation of the DDR to the PCA, t-SNE, and Umap. We show that the nonlinearity in the vector field encourage the mapping to preserve more features in the data. We also know that our method maintain both local and global structure of data. 
