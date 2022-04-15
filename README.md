@@ -26,6 +26,8 @@
 This paper proposes a framework for learning a low-dimensional representation of data based on the nonlinear dynamical system. This method is called dynamical dimension reduction (DDR). In this model, we find the dynamical system which evolves a data in high-dimensional space toward the low-dimensional subspace. And the lower representation, called the latent vector, is defined by projecting the solution to the ODE at the fixed final time onto the onto the orthonomal subspace. 
 
 
+![Digits](https://github.com/rkyoon12/DDR/S_embedding.png)
+
 
 * Based on the Equation discovery method, we parametrize the underlying vector filed by the linear combination of pre-specified dictionary.
 * We solve the ODE-constraint optimization problem by minimizing both the mean-squared residual error and the regularity of the flow.
