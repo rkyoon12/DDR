@@ -50,7 +50,7 @@ Explore the example which shows how this code run for the dimension reduction. U
 
 ### 1. Dataset
 
-Here, we use the synthetic data generating S-shaped manifold by the known ODE. The code for creating synthetic data is here [generating](https://github.com/rkyoon12/NAED/blob/master/GenerateData/osc.pickle)
+Here, we use the synthetic data generating S-shaped manifold by the known ODE. The code for creating synthetic data is here [generating](https://github.com/rkyoon12/DDR/blob/main/generate_data_vectorfield_3D.py).
 
 Also, we examine the DDR method on the real example data, Iris and Hand-written digits. You can download pickled data. 
 
