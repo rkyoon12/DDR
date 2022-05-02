@@ -117,7 +117,7 @@ We depict the learned lower-dimensional representation of data. (left/top) DDR, 
 This is comparision of lower-dimensional representation of the DDR to the PCA, t-SNE, and Umap. We show that the nonlinearity in the vector field encourage the mapping to preserve more features in the data. We also know that our method maintain both local and global structure of data. 
 
 
-For more examples, please refer to the [paper](https://xxx.pdf).
+For more examples, please refer to the [paper](https://arxiv.org/abs/2204.08155).
 
 
 
