@@ -10,7 +10,7 @@
   <p align="center">
     Document is available below
     <br />
-    <a href="xxx.pdf"><strong>Explore the docs »</strong></a>
+    <a href="https://arxiv.org/abs/2204.08155"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     
